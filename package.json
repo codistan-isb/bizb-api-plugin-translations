@@ -1,7 +1,7 @@
 {
-  "name": "@reactioncommerce/api-plugin-translations",
+  "name": "@codistan-isb/bizb-api-plugin-translations",
   "description": "Translations plugin for the Reaction API",
-  "version": "0.0.0-development",
+  "version": "0.0.1-development",
   "main": "index.js",
   "type": "module",
   "engines": {
